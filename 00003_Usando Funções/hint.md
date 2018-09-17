@@ -1,0 +1,1 @@
+Note que o operador de divisão em JavaScript é `/`.
