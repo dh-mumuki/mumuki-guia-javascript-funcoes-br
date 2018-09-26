@@ -2,10 +2,10 @@ describe("Não funcionou...Clique em 'Ver Detalhes' para ver o valor que deve re
   it("", () => {
 	assert.equal(dobroDoProximo(5), 12)
   })
-  it("Não funcionou...Clique em 'Ver Detalhes' para ver o valor que deve retornar", () => {
+  it("", () => {
 	assert.equal(dobroDoProximo(0), 2)
   })
-  it("Não funcionou...Clique em 'Ver Detalhes' para ver o valor que deve retornar", () => {
+  it("", () => {
 	assert.equal(dobroDoProximo(-4), -6)
   })
 })
