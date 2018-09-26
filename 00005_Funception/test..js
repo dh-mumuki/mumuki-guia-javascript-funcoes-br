@@ -1,4 +1,4 @@
-describe("eMagico", function() {
+describe("Não funcionou...", function() {
   it("deveria retornar 5 e devolvemos 12", () => {
 	assert.equal(dobroDoProximo(5), 12)
   })
