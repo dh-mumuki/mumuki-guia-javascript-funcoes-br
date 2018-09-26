@@ -3,7 +3,7 @@ Tendo essas pequenas funções, podemos combiná-las para fazer coisas mais comp
 Por exemplo, se quisermos adicionar dois números e depois multiplicá-los por 3, poderíamos fazê-lo da seguinte maneira:
 
 ```javascript
-funcao somaPorTres (num1, num2) {
+function somaPorTres (num1, num2) {
    var resultadoDaSoma = add (num1, num2);
    return resultadoDaSoma * 3;
 }
