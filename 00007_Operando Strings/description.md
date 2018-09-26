@@ -15,9 +15,9 @@ Embora que, o termo correto seja **concatenar**, ou seja,  obter uma nova string
  "aa" + " " + "bb" // devolve "aa bb"
 ```
 
-> Vamos testar se ficou claro: Escrevemos uma função chamada LongitudeNomeCompleto, que recebe um nome e um sobrenome, que irá devolver a longitude total, contando um espaço extra para separar ambos:
+> Vamos testar se ficou claro: Escrevemos uma função chamada tamanhoNomeCompleto, que recebe um nome e um sobrenome, que irá devolver o tamanho total, contando um espaço extra para separar ambos:
 
 ```javascript
-LongitudeNomeCompleto("Cosme", "Fulanito")
+tamanhoNomeCompleto("Cosme", "Fulanito")
 //  devolve 14
 ```
