@@ -1,4 +1,4 @@
-describe("Descrição do grupo", function() {
+describe("", function() {
   it("Descrição da amostra", function() {
     assert(true)
   })
