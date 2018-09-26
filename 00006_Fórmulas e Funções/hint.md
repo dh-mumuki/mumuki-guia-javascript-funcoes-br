@@ -1,9 +1,9 @@
 Lembre-se disso:
 
 ```javascript
- perimetro = π * radio * 2;
+ perimetro = π * raio * 2;
  
- area = π * radio * radio;
+ area = π * raio * raio;
  
  π = 3.14;
 ```
