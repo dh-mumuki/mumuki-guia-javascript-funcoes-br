@@ -1,11 +1,11 @@
-describe("Não funcionou...", function() {
-  it("deveria retornar 5 e devolvemos 12", () => {
+describe("Não funcionou...Clique em 'Ver Detalhes' para ver o valor que deve retornar", function() {
+  it("", () => {
 	assert.equal(dobroDoProximo(5), 12)
   })
-  it("deveria retornar 0 e devolvemos 2", () => {
+  it("Não funcionou...Clique em 'Ver Detalhes' para ver o valor que deve retornar", () => {
 	assert.equal(dobroDoProximo(0), 2)
   })
-  it("deveria retornar -4 e devolvemos -6", () => {
+  it("Não funcionou...Clique em 'Ver Detalhes' para ver o valor que deve retornar", () => {
 	assert.equal(dobroDoProximo(-4), -6)
   })
 })
