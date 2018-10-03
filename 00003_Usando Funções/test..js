@@ -1,6 +1,6 @@
 describe("metade", () => {
   it("deveria dividir 6 na metade para termos 3", () => {
-    assert.equal(mitad(6), 3)
+    assert.equal(metade(6), 3)
   })
   it("deveria dividir 100 na metade para termos 50", () => {
     assert.equal(metade(100), 50)
