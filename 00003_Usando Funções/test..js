@@ -1,5 +1,11 @@
-describe("", function() {
-  it("Descrição da amostra", function() {
-    assert(true)
+describe("metade", () => {
+  it("deveria dividir 6 na metade para termos 3", () => {
+    assert.equal(mitad(6), 3)
+  })
+  it("deveria dividir 100 na metade para termos 50", () => {
+    assert.equal(mitad(100), 50)
+  })
+  it("deveria dividir 1 na metade para termos 0.5", () => {
+    assert.equal(mitad(1), 0.5)
   })
 })
