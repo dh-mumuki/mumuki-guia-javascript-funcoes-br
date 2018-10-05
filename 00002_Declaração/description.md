@@ -11,11 +11,11 @@ function dobro(numero) {
    return numero*2;
 }
 ```
-Como podemos ver, acima nós declaramos uma função com a palavra reservada **function** e o nome _dobro_. Entre os parênteses, colocamos o **parâmetro** _numero_ que será substituído pelo número que damos quando o chamamos. Para terminar, com a palavra **return** dizemos que queremos é que ele retorne 2 vezes o _numero_ que lhe demos.
+Como podemos ver, acima nós declaramos uma função com a palavra reservada **function** e o nome _dobro_. Entre os parênteses, colocamos o **parâmetro** _numero_ que será substituído pelo número que damos ao fazer a chamada da função. Para terminar, com a palavra **return** dizemos que queremos é que ele retorne 2 vezes o _numero_ que lhe demos.
 
 Para executar a função e fazer o que queremos, você precisa chamá-la pelo nome e digitar o número que deseja usar entre parênteses.
 
 ```javascript
-dobro(5);   //Isto iá devolver 10
+dobro(5);   //Isto irá devolver 10
 dobro(1.5); //E isto irá devolver 3
 ```
