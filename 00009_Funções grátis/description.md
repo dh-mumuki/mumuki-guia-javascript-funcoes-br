@@ -1,4 +1,4 @@
-Graças aos programadores de JavaScript, temos algumas funções que você pode usar sem declarar _(porque elas fizeram isso por nós)_.
+Graças aos programadores de JavaScript, temos algumas funções que você pode usar sem declarar _(porque eles fizeram isso por nós)_.
 Estas são algumas das funções matemáticas que podemos usar:
 
 ```javascript
@@ -15,7 +15,7 @@ Math.round (4.3) //retorna 4
 Math.floor (4.6) //retorna 4
 Math.floor (4.3) //retorna 4
 ```
-> `Math.round ()` arredonda matematicamente o parâmetro para nós (ou seja, até ,5 abaixo e acima ,5 acima) e `Math.floor ()` arredonda o parâmetro todo para cima.
+> `Math.round ()` arredonda um número para cima até o número inteiro mais próximo e `Math.floor ()` arredonda um número para baixo até o número inteiro mais próximo.
 
 ```javascript
 Math.max (4, 7) //retorna 7
