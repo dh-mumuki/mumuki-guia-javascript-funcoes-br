@@ -1,6 +1,6 @@
 Vamos começar com o básico:
 
-As funções consistem em 4 partes. A **palavra reservada** `function`, o **nome** com o qual vamos chamar a função, os parênteses onde irá os **parametros**  (se você precisar deles), as **{} chaves** que dentro teremos o código que queremos que a função execute .
+As funções consistem em 4 partes. A **palavra reservada** `function`, o **nome** com o qual vamos chamar a função, os parênteses onde irá os **parâmetros**  (Caso a função não precise de parâmetros, ainda sim, **devemos** colocar os parenteses), as **{} chaves** que dentro teremos o código que queremos que a função execute .
 
 Se quisermos que uma função retorne um valor, precisaremos da palavra-chave `return`. Depois disso, tudo o que queremos irá retornar.
 
