@@ -1,7 +1,7 @@
 E o que podemos fazer que não seja matemática? Podemos trabalhar com **strings**!
 E se você se recorda, as **strings** são um tipo de dados. Representamos as cadeias de texto escrevendo dentro de aspas (“ “) literalmente.
 
-E o que podemos fazer então com as strings? Por exemplo, podemos calcular quantos caracteres existem no total:
+E o que podemos fazer então com as strings? Por exemplo, podemos calcular quantos caracteres existem no total, e para isso iremos utilizar um recurso chamdo length, colocamos a **string** seguida de `.length`. Veja alguns exemplos:
 
 ```javascript
  "biblioteca".length // devolve 10
