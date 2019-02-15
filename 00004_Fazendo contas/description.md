@@ -8,4 +8,4 @@ function somar(numero1,numero2){
 }
 ```
 
-> Escreva a função `multiplicar` que receba dois parâmetros, multiplique-os e retorne o resultado da multiplicação.
+> Escreva a função `multiplicar` que receba dois **parâmetros**, multiplique-os e retorne o resultado da multiplicação.
