@@ -11,4 +11,4 @@ function somaPorTres (num1, num2) {
 
 Aqui vemos que tendo a função **somar()** definida, podemos chamá-la dentro de outra função e tornar o trabalho mais fácil.
 
-> Vamos ver se com a função `somar()` podemos fazer uma função `dobroDoProximo()` que recebe um parâmetro e nos retorna duas vezes mais que o próximo.
+> Crie função `dobroDoProximo()` que recebe um parâmetro e nos retorna duas vezes mais que o próximo.
