@@ -1,5 +1,4 @@
 <div style="text-align:center;"> 
-</body>
 
 <p>Convidamos você a assistir o seguinte vídeo que lhe dirá o que significam as funções e para que elas são usadas.</p>
 
@@ -7,4 +6,3 @@
 
 
 </div>
-<body>
